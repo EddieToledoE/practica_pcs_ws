@@ -1,0 +1,12 @@
+### Crear usuario 
+POST http://localhost:3000/api/auth/registro
+Content-Type: application/json
+
+{
+    "email":"Misifuu",
+    "contraseña":"miauu123"
+}
+
+
+    "email":"Misifuu",
+    "contraseña":"miauu123"
